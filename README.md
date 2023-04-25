@@ -4,7 +4,7 @@
 
 <hr/>
 
-I combine art, technology and mindfulness to create solutions to complex qeustions, problems and intentions. 
+I combine art, technology and mindfulness to create solutions to complex questions, problems and intentions. 
 <br/>
 With a unique blend of skills in Machine Learning, Natural Language Processing, Data Science, and Data Visualization, I have successfully delivered a diverse range of projects that have involved developing chatbots, creating recommendation systems, and much more.
 
