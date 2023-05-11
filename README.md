@@ -18,4 +18,4 @@ If you are interested in discussing Data Science for your niche by value from da
 
 <hr/>
 
-Please do not hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-herrmann/).
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-herrmann/).
