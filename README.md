@@ -1,3 +1,4 @@
+### About
 I integrate technology and mindfulness to explore conceptual coherences.  
 Expert in Machine Learning, Natural Language Processing (NLP), Data Science, and Data Visualization.
 
