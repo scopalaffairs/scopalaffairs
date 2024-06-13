@@ -1,9 +1,11 @@
 ### About
-I integrate technology and art to explore conceptual coherences.  
-Expert in Machine Learning, Natural Language Processing (NLP), Data Science, and Data Visualization.
+
+I blend technology and art to delve into conceptual harmonies. My work encompasses Machine Learning, Natural Language Processing (NLP), Data Science, and Data Visualization.
 
 ### Interests
-Focused on organic algorithms, especially mycology and neural networks. These natural systems inspire resilience and adaptability in my work.
+
+I am particularly drawn to organic algorithms, with a focus on mycology and neural networks. These natural systems inspire resilience and adaptability in my projects.
 
 ### Contact
-Open to collaboration and idea exchange.
+
+I am open to collaboration and the exchange of ideas.
