@@ -13,4 +13,4 @@ Exploring resilient systems through organic algorithms, neural networks, and myc
 
 ### Contact
 
-Open to collaborations in AI/ML innovation and cross-disciplinary problem-solving.
+Open to collaborations in innovation and cross-disciplinary problem-solving.
