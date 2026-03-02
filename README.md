@@ -1,4 +1,4 @@
-Artistic research.
+Artistic research. 
 Data science.
 
 code. space. perception.
