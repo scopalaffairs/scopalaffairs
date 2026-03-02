@@ -1,7 +1,4 @@
-Data science.
 Artistic research.
+Data science.
 
-I build models.
-I build rooms.
-
-I study behavior.
+code. space. perception.
